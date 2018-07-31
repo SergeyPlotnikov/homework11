@@ -1,0 +1,1 @@
+<h2>Lot has been added successfully!</h2>
